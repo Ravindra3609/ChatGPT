@@ -1,0 +1,7 @@
+
+
+kAfF9hzAPwWzBeeh
+
+MONGODB_URI=mongodb+srv://ravindra:kAfF9hzAPwWzBeeh@cluster0.2caqoh6.mongodb.net/test
+
+openai.api_key = "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"
